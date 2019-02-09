@@ -20,7 +20,7 @@ html {
 body {
     background-color:#ffffff;
     color:#000000;
-    font-family: 'Sorts Mill Goudy', serif;
+    font-family: 'Cardo', serif;
     font-size:16px;
     line-height:1.6em;
     -webkit-user-select: none;
@@ -31,7 +31,7 @@ body {
     user-select: none;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Cutive+Mono|Sorts+Mill+Goudy:400,400i');
+@import url('https://fonts.googleapis.com/css?family=Cutive+Mono|Cardo:500,400,400i');
 
 .container {
   margin: 0 auto;
@@ -41,7 +41,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Cutive Mono', mono;
+  font-family: 'Cardo', serif;
   color: $darkerGray;
   font-weight: bold;
 
@@ -204,7 +204,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: 'Cutive Mono', mono;
+  font-family: 'Cardo', serif;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -223,7 +223,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: 'Cutive Mono', mono;
+  font-family: 'Cardo', serif;
   font-size: 18px;
 
   @include mobile {
