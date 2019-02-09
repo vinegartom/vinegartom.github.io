@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    font-size:16px;
+}
+
+.drama {
+    width:100%;
+}
+
+.turgy {
+    width:80%;
+    padding:10%;
+    margin:auto;
+}
+
+html, body, #home, #writing, #witches, #resources, #media {
+	height:auto;
+	min-height: 100vh;
+    width:100%;
+    margin:0;
+}
+
+#contact {
+	height:auto; 
+    width:100%;
+    margin:0;
+}
+
+h1 {
+    font-size:3em;
+}
+
+#mainNav {
+    font-size:.7em;
+}
+
+#home, #witches, #resources, #media, #contact {padding:2.5em 0;width:100%;}
+
+.tete {width:90%;margin:auto;}
+.bigboi {width:100%;margin:auto;}
+.lilbud {width:80%;margin:auto;}
+.lilcaption {width:85%;margin:auto;font-size:.75em;text-transform:uppercase;margin-bottom:3em;line-height: 1.25;}
+.espace {width:100%;margin:auto;height:1.5em;clear:both;}
+
+.caption {font-size:.75em;text-transform:uppercase;margin-top:3em;line-height:1.25;}
