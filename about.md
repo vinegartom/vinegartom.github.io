@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-An audience guide researched, written, and designed by Kathryn de la Rosa, dramaturg.
+An audience guide researched, written, and designed by [Kathryn de la Rosa](https://kathryndelarosa.github.io), dramaturg.
 
 ### Contact
 
