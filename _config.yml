@@ -1,20 +1,18 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
-canonical: http://jekyll.gtat.me
+title:            Vinegar Tom
+tagline:          IU Theatre
+description:      An audience guide by Kathryn de la Rosa, dramaturg.
+canonical: https://vinegartom,github.io
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Kathryn de la Rosa
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  bio:            "Dramaturg"
+  email:          kathrynrdelarosa@gmail.com
+  twitter:        IUTheatre
+  github:         kathryndelarosa
+  instagram:      iutheatre
+  location:       "Bloomington, Ind."
   # Plug in your disqus shortname!
 
 tools:
@@ -30,11 +28,11 @@ opengraph:
 links:
   - title: About
     url: /about
-  - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+  - title: IU Theatre
+    url: https://theatre.indiana.edu/on-stage/productions/2018-2019/vinegar-tom.html
     external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+  - title: Who?
+    url: https://kathryndelarosa.github.io
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
